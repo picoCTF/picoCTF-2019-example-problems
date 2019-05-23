@@ -1,0 +1,10 @@
+{
+    "name": "Secret Agent",
+        "category": "Web Exploitation",
+        "description": "Here's a little website that hasn't fully been finished. But I heard google gets all your info anyway. <code>http://{{server}}:{{port}}</code> (<a href=\"http://{{server}}:{{port}}\">link</a>)",
+        "score": 1,
+        "hints": ["How can your browser pretend to be something else?"],
+    "author": "bobson",
+    "pip_requirements": ["Flask"],
+    "organization": "picoCTF"
+}
