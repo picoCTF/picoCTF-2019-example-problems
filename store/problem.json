@@ -1,0 +1,10 @@
+{
+  "name": "store",
+  "category": "General Skills",
+  "description" : "We started a little {{url_for(\"store\", display=\"store\")}}, can you buy the flag? {{url_for(\"source.c\", display=\"Source\")}}. Connect with <code>{{server}} {{port}}</code>.",
+  "hints" : ["Two's compliment can do some weird things when numbers get really big!"],
+  "score" : 400,
+    "author": "Danny",
+    "organization": "picoCTF-2018"
+}
+
