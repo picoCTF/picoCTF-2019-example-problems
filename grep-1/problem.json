@@ -1,0 +1,9 @@
+{
+  "name": "grep 1",
+  "category": "General Skills",
+  "description" : "Can you find the flag in {{url_for(\"file\", display=\"file\")}}? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in {{directory}} on the shell server.",
+  "hints" : ["grep <a href=\"https://ryanstutorials.net/linuxtutorial/grep.php\">tutorial</a>"],
+  "score" : 1,
+    "author": "bobson",
+    "organization": "picoCTF-2018"
+}
