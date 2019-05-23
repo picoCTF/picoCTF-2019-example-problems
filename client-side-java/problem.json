@@ -1,0 +1,9 @@
+{
+  "name": "Client Side is Still Bad",
+  "category": "Web Exploitation",
+  "description": "I forgot my password again, but this time there doesn't seem to be a reset, can you help me? <code>http://{{server}}:{{port}}</code> (<a href=\"http://{{server}}:{{port}}\">link</a>)",
+  "score" : 1,
+  "hints": ["Client Side really is a bad way to do it."],
+  "author": "bobson",
+  "organization": "picoCTF"
+}
