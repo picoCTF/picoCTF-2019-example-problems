@@ -1,0 +1,9 @@
+{
+    "name": "Radix's Terminal",
+    "category": "Reversing",
+    "description" : "Can you find the password to {{url_for(\"radix\", display=\"Radix's login\")}}? You can also find the executable in  {{directory}}?",
+    "hints" : ["https://en.wikipedia.org/wiki/Base64"],
+    "score" : 1,
+    "author": "speeeday",
+    "organization": "picoCTF"
+}
