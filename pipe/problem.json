@@ -5,5 +5,6 @@
     "hints" : ["Remember the flag format is picoCTF{XXXX}", "Ever heard of a pipe? No not that kind of pipe... This <a href=\"http://www.linfo.org/pipes.html\">kind</a>"],
     "score" : 1,
     "author": "bobson",
-    "organization": "picoCTF-2018"
+    "organization": "picoCTF-2018",
+    "event": "bokkenCTF"
 }

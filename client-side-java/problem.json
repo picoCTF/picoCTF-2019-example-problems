@@ -5,5 +5,6 @@
   "score" : 1,
   "hints": ["Client Side really is a bad way to do it."],
   "author": "bobson",
-  "organization": "picoCTF"
+  "organization": "picoCTF",
+  "event": "bokkenCTF"
 }
